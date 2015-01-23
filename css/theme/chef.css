@@ -47,12 +47,12 @@ body {
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  margin: 0 0 20px 0;
+  margin: 0 0 0 0;
   color: #F18A20;
   font-family: "Gotham SSm A", sans-serif;
-  line-height: 0.9em;
-  letter-spacing: -0.08em;
-  text-transform: uppercase;
+  line-height: 1.1em;
+  /*letter-spacing: -0.08em;*/
+  text-transform: uppercase; 
   text-shadow: none; }
 
 .reveal h1 {
